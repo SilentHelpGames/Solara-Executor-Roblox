@@ -28,7 +28,7 @@ While the program may be used to assess the security of roblox executor, it shou
   <h3 align="center">[Roblox Executor] - Solara</h3>
 
   <p align="center">
-    Wave is a Roblox Executor that injects script that takes advantage of Roblox weak anticheat Byfron.
+    Solara is a Roblox Executor that injects script that takes advantage of Roblox weak anticheat Byfron.
     <br/>
     <br/>
     <a href="https://github.com/HelpingInGames/Solara-Executor-Roblox/releases/tag/solara-executor-roblox">Download</a>
