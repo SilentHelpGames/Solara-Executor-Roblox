@@ -1,6 +1,6 @@
 
 # Solara Executor
-![GitHub](https://img.shields.io/github/license/HelpingInGames/Solara-Executor-Roblox)
+![GitHub](https://img.shields.io/github/license/SilentHelpGames/Solara-Executor-Roblox)
 
 **Free, Open-Source Executor for Roblox.**
 
